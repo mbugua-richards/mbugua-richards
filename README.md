@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rickflair101" target="blank"><img src="https://img.shields.io/twitter/follow/rickflair101?logo=twitter&style=for-the-badge" alt="rickflair101" /></a> </p>
 
-- 🔭 I’m currently working on **Web 3 Wallet App**
+- 🔭 I’m currently working on **A Web 3 Wallet App**
 
 - 👯 I’m looking to collaborate on **Any Software Dev**
 
@@ -15,11 +15,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@TheAztech](https://medium.com/@TheAztech)
 
-- 💬 Ask me about **react, HTML, CSS, JavaScript, Node, Git**
+- 💬 Ask me about **React, HTML, CSS, JavaScript, Node, Git, Vue.js**
 
 - 📫 How to reach me **ricmwathih81@gmail.com**
 
-- ⚡ Fun fact **I am a person living with a disability and coding is my passion.**
+- ⚡ Fun fact **Richard is a software developer and designer who lives with spina bifida. I'm trying to break down stereotypes about disabled people by pursuing my dream of becoming a great software developer and designer.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
