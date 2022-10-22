@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ricmwathih81@gmail.com**
 
-- ⚡ Fun fact **Richard is a software developer and designer who lives with spina bifida. I'm trying to break down stereotypes about disabled people by pursuing my dream of becoming a great software developer and designer.**
+- ⚡ Fun fact **I am a software developer and designer who lives with spina bifida. I'm trying to break down stereotypes about disabled people by pursuing my dream of becoming a great software developer and designer.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
