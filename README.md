@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rickflair101" target="blank"><img src="https://img.shields.io/twitter/follow/rickflair101?logo=twitter&style=for-the-badge" alt="rickflair101" /></a> </p>
 
-- 🔭 I’m currently working on **A Web 3 Wallet App**
+- 🔭 I’m currently working on **A React Dashboard Project**
 
-- 👯 I’m looking to collaborate on **Any Software Dev**
+- 👯 I’m looking to collaborate on **Any Software Development that uses React, HTML, CSS, Node, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://richards-portfolio1.netlify.app/](https://richards-portfolio1.netlify.app/)
 
