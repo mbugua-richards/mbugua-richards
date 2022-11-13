@@ -66,5 +66,7 @@ src="https://img.shields.io/github/followers/mbugua-richards?logo=github&style=f
 
 <a href="https://github.com/mbugua-richards" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbugua-richards&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![image](https://user-images.githubusercontent.com/38911265/201510060-19e0c179-fb17-457d-a3df-9ad2ac0cfc36.png)
+
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
