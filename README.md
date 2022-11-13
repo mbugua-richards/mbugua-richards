@@ -11,7 +11,7 @@ A competent software developer who can translate customer needs into viable tech
 
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [Portfolio Website](http://richards-portfolio1.netlify.app/)
-* ✉️  You can contact me at [Mbuguarichards101@gmail.com](mailto:Mbuguarichards101@gmail.com)
+* ✉️  You can contact me at [ricmwathih81@gmail.com](mailto:ricmwathih81@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Space Ya Tech
 * ⚡  I am a software developer and designer who lives with spina bifida. I'm trying to break down stereotypes about disabled people by pursuing my dream of becoming a great software developer and designer.
