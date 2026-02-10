@@ -15,7 +15,7 @@ As a developer living with **spina bifida**, I also advocate for **inclusive des
 ---
 
 - 🌍 Based in **Nairobi, Kenya**
-- 🖥️ Portfolio: [richards-portfolio1.netlify.app](http://richards-portfolio1.netlify.app/)
+- 🖥️ Portfolio: [https://rmbuguaportfolio.netlify.app/](http://rmbuguaportfolio.netlify.app/)
 - ✉️ Email: [ricmwathih81@gmail.com](mailto:ricmwathih81@gmail.com)
 - 🧠 Currently learning **GraphQL** and **Golang**
 - 🤝 Open to collaborations in **tech-for-good** and **accessible software**
