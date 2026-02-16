@@ -1,9 +1,6 @@
-<!-- ===================================================== -->
-<!-- HERO -->
-<!-- ===================================================== -->
-
+<!-- ===== HEADER TYPING ANIMATION ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3000&pause=900&color=0891B2&center=true&vCenter=true&width=900&lines=Richard+Mbugua;Full+Stack+Engineer;React+%7C+Angular+%7C+Node.js+%7C+Django;Building+Scalable+%26+Production+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=800&lines=Richard+Mbugua;Full+Stack+Engineer;React+%7C+Angular+%7C+Node.js+%7C+Django;Building+Scalable+Systems+%26+Clean+UX" />
 </p>
 
 <p align="center">
@@ -15,28 +12,27 @@
 # Richard Mbugua
 ### Full Stack Engineer
 
-I design and ship **scalable, secure, and production-grade applications** across the full stack.
+I build **scalable, secure, and production-ready applications** across the full stack.
 
-With 6+ years of experience, I specialize in modern frontends, resilient backend systems, and clean architecture. My focus is performance, maintainability, and building software that solves real-world problems.
+With 6+ years of experience, I specialize in designing modern frontends, reliable backend systems, and clean architectures that scale. I focus on maintainability, performance, and excellent user experience — delivering software that solves real business problems.
 
 ---
 
-## Core Strengths
-- Full Stack Development
+## Focus
+- Full Stack Web Development
 - API & System Architecture
 - UI/UX Engineering
 - Performance Optimization
 - Healthcare & Data Platforms
-- Clean Code & Scalable Design
 
 ---
 
 ## Contact
-- Portfolio → https://rmbuguaportfolio.netlify.app
-- Email → ricmwathih81@gmail.com
-- LinkedIn → https://linkedin.com/in/mbugua-richard
-- GitHub → https://github.com/mbugua-richards
-- Location → Nairobi, Kenya
+- 🌍 Nairobi, Kenya  
+- 🌐 Portfolio → https://rmbuguaportfolio.netlify.app  
+- ✉️ Email → ricmwathih81@gmail.com  
+- 💼 LinkedIn → https://linkedin.com/in/mbugua-richard  
+- 🧠 Currently learning → GraphQL & Golang  
 
 ---
 
@@ -58,67 +54,53 @@ With 6+ years of experience, I specialize in modern frontends, resilient backend
 
 ## Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
-# Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| **TibaHub** | Clinic Management System with billing, inventory & offline support | Flutter • Node.js |
-| **M-Clinic** | Multi-tenant healthcare SaaS | React • Supabase |
-| **DamuHub** | Blood donation platform | React • Firebase |
-| **Sales Dashboard** | Real-time analytics dashboard | Angular • Django |
-| **Weather Dashboard** | API-driven weather app | Angular |
-
----
-
 # GitHub Analytics
 
-<!-- IMPORTANT: enable private contributions inside GitHub settings -->
-
+<!-- PRIVATE + PUBLIC COMMITS INCLUDED -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mbugua-richards&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" />
-  <img height="170" src="https://streak-stats.demolab.com?user=mbugua-richards&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mbugua-richards&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=mbugua-richards&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbugua-richards&hide_border=true&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbugua-richards&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbugua-richards&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-</p>
-
----
-
-# Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mbugua-richards&theme=flat&no-frame=true&row=1&column=7" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbugua-richards&layout=compact&langs_count=8&hide_border=true" />
 </p>
 
 ---
 
-# Featured Repositories
+# Selected Projects
 
-<!-- Replace with your pinned repos -->
-<p align="center">
-  <a href="https://github.com/mbugua-richards/TibaHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbugua-richards&repo=TibaHub&hide_border=true" />
-  </a>
-  <a href="https://github.com/mbugua-richards/M-Clinic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbugua-richards&repo=M-Clinic&hide_border=true" />
-  </a>
-</p>
+### TibaHub
+Clinic Management System (Flutter + Node.js)  
+Role-based access, inventory, billing, offline support
+
+### M-Clinic
+Multi-tenant healthcare SaaS (React + Supabase)  
+Patient records, analytics, billing, reporting
+
+### DamuHub
+Blood donation platform  
+Donor management, registration, scheduling
+
+### Sales Analytics Dashboard
+Angular + Django real-time dashboards & reporting
+
+### Weather Dashboard
+API-driven Angular app with live weather insights
 
 ---
 
 <p align="center">
-  <sub>Clean Code • Scalable Systems • Thoughtful Design</sub>
+  <i>Clean code. Scalable systems. Thoughtful design.</i>
 </p>
