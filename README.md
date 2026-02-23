@@ -14,7 +14,7 @@
 
 I build **scalable, secure, and production-ready applications** across the full stack.
 
-With 6+ years of experience, I specialize in designing modern frontends, reliable backend systems, and clean architectures that scale. I focus on maintainability, performance, and excellent user experience — delivering software that solves real business problems.
+With 6+ years of experience, I specialize in designing modern frontends, reliable backend systems, and clean architectures that scale. I focus on maintainability, performance, and excellent user experience delivering software that solves real business problems.
 
 ---
 
