@@ -64,11 +64,11 @@ I care about three things: **maintainability** (code the next engineer can chang
 </p>
 
 <p align="center">
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbugua-richards&layout=compact&langs_count=8&hide_border=true&title_color=0891B2" />
+  <height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbugua-richards&layout=compact&langs_count=8&hide_border=true&title_color=0891B2" />
 </p>
 
 <p align="center">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mbugua-richards&hide_border=true&color=0891B2&line=0891B2&point=FFFFFF" />
+  <alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mbugua-richards&hide_border=true&color=0891B2&line=0891B2&point=FFFFFF" />
 </p>
 
 ---
