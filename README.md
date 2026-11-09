@@ -60,7 +60,7 @@ I care about three things: **maintainability** (code the next engineer can chang
 
 <p align="center">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mbugua-richards&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=0891B2&icon_color=0891B2" />
-  <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=mbugua-richards&hide_border=true&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" />
+  <height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=mbugua-richards&hide_border=true&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" />
 </p>
 
 <p align="center">
